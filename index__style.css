@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "SF Pro Display";
+    font-style: bold;
+    font-weight: 400;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: local("SF Pro Display"),
+         /* Если не получилось, загрузит woff2 */
+         url("SF Pro Display.otf") format("otf"),
+  }
+#name1 {
+    color: #333333;
+    font-size: 16px;
+    font-family: SF Pro Display;
+    /* padding-left: 20px; */
+    text-align: center;
+}
+#name2 {
+    color: #333333;
+    font-size: 16px;
+    font-family: SF Pro Display;
+    /* padding-left: 20px; */
+    text-align: center;
+}
+.back {
+    text-align: center;
+    border-radius: 12px;
+}
+
+
+#photo {
+    width: 100px;
+    height: 100px;
+    background-position: center; 
+    background-size: cover;
+    display: none;
+    }
+
+.andreev {
+    margin-left: 1000px;
+}

@@ -1,0 +1,108 @@
+Uri: http://8a-ship.tilda.ws/
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://8a-ship.tilda.ws/tilda-blocks-2.14.css?t=1643918364
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: http://8a-ship.tilda.ws/tilda-blocks-2.7.js?t=1643918364
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5bb7/baee/f00d9afcbc2b072884a987597ea4da59
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\figma-alpha-api\img\5bb7\baee\f00d9afcbc2b072884a987597ea4da59
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c0f4/a1d7/301e8377519e72a261edf222974f94e9
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\figma-alpha-api\img\c0f4\a1d7\301e8377519e72a261edf222974f94e9
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cda1/d552/cf69bbd2392dc47e3fda0037591e47c5
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\figma-alpha-api\img\cda1\d552\cf69bbd2392dc47e3fda0037591e47c5
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3133-3731-4332-a532-343432393837/AnyConvcom__Lato-Bla.woff
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3133-3731-4332-a532-343432393837\AnyConvcom__Lato-Bla.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3165-3030-4732-b030-663366623266/AnyConvcom__Lato-Sem.woff
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3165-3030-4732-b030-663366623266\AnyConvcom__Lato-Sem.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3237-3730-4931-b363-383039373263/AnyConvcom__Lato-Med.woff
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3237-3730-4931-b363-383039373263\AnyConvcom__Lato-Med.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3537-6632-4365-b265-326536633466/AnyConvcom__SFPRODIS.woff
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3537-6632-4365-b265-326536633466\AnyConvcom__SFPRODIS.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3632-6230-4134-b830-326465623135/AnyConvcom__Lato-Reg.woff
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3632-6230-4134-b830-326465623135\AnyConvcom__Lato-Reg.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.info/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/tild3138-6463-4864-b535-666265656533/-/resize/20x/icons8-gender-48.png
+File Name: C:\Downloaded Web Sites\8a-ship.tilda.ws\tild3138-6463-4864-b535-666265656533\-\resize\20x\icons8-gender-48.png
+Content Type: image/png
+
