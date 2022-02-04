@@ -361,7 +361,7 @@ const items = {
 </script>
 
 <style>
-/* @font-face {
+@font-face {
     font-family: "SF Pro Display";
     font-style: bold;
     font-weight: 400;
@@ -369,7 +369,9 @@ const items = {
     src: local("SF Pro Display"),
          /* Если не получилось, загрузит woff2 */
          url("SF Pro Display.otf") format("otf"),
-  } */
+         /* Если браузер не поддерживает woff2, загрузит woff */
+         url("/fonts/roboto.woff") format("woff");
+  }
    
     @font-face {
     font-family: SF Pro Display; /* Гарнитура шрифта */
