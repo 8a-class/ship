@@ -1,6 +1,4 @@
 ﻿<!DOCTYPE html><html> <head>
-      
-       <div class="back_cont"></div>
        
       <style> 
             
@@ -10,12 +8,12 @@
   background-size: 100% 100%;
   animation: gradient 10s ease infinite;
   }
-  .t396__artboard {
+/*   .t396__artboard {
   height: 100%;
   margin: 0;
   background-size: 100% 100%;
   animation: gradient 10s ease infinite;
-  }
+  } */
 
 @keyframes gradient {
     0% {
@@ -462,17 +460,10 @@ const items = {
 </script>
 
 <style>
-@font-face {
-    font-family: "SF Pro Display";
-    font-style: bold;
-    font-weight: 400;
-    /* Браузер сначала попробует найти шрифт локально */
-    src: local("SF Pro Display"),
-         /* Если не получилось, загрузит woff2 */
-         url("SF Pro Display.otf") format("otf"),
-         /* Если браузер не поддерживает woff2, загрузит woff */
-         url("/fonts/roboto.woff") format("woff");
-  }
+   @font-face {
+    font-family: SF Pro Display; /* Гарнитура шрифта */
+    src: url(SF Pro Display.woff); /* Путь к файлу со шрифтом */
+   }
 
 #name1 {
     color: #333333;
